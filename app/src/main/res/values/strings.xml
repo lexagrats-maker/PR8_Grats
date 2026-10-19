@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Учет успеваемости</string>
+    <string name="hint_subject">Название дисциплины</string>
+    <string name="hint_grade">Оценка</string>
+    <string name="btn_save">Сохранить в БД</string>
+    <string name="btn_view">Показать данные</string>
+    <string name="toast_fill_all">Заполните все поля!</string>
+    <string name="toast_saved">Данные сохранены!</string>
+    <string name="tv_empty_db">База данных пуста</string>
+    <string name="tv_data_title">Сохраненные записи:\n</string>
+</resources>
